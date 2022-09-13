@@ -1,0 +1,35 @@
+body {
+    text-align: justify;
+    background-color: gold;
+    width: 1023px;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+nav {
+    list-style-type: none;
+    
+
+}
+nav>li {
+    display: inline;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+#alma{
+
+    width: 200px;
+    
+}
+footer{
+
+    background-color: bisque;
+    color: blueviolet;
+}
